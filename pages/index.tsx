@@ -15,7 +15,7 @@ const Home: NextPage = () => {
           <a>Hey, I&apos;m Avunit!</a>
         </h1>
         <p className={styles.description}>
-          I&apos;m a tech geek. Thanks a lot Jonte for helping me with my website
+          Hi! I&apos;m a tech geek and i love Linux and playing around with tech!
         </p>
 
         <div className={styles.grid}>
