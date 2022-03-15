@@ -15,13 +15,13 @@ const Home: NextPage = () => {
           <a>Hey, I&apos;m Avunit!</a>
         </h1>
         <p className={styles.description}>
-          Hi! I&apos;m a tech geek, i love Linux and playing around with code!
+          Hi! I&apos;m a tech geek, and i just made my own website!
         </p>
 
         <div className={styles.grid}>
           <a href="https://blog.avunit.tk" className={styles.card}>
             <h2>Read my blog! &rarr;</h2>
-            <p>Updated weekly! (hopefully)</p>
+            <p>Updated daily! (hopefully)</p>
           </a>
 
           <a href="https://troll.avunit.tk" className={styles.card}>
@@ -49,7 +49,7 @@ const Home: NextPage = () => {
       </main>
 
       <footer className={styles.footer}>
-          Thanks Jonte! You can copy my code, go ahead.
+          Built with love by Avunit. Licensed under GPL 3.
       </footer>
     </div>
   )
