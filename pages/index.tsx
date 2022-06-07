@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           </a>
 
           <a href="https://troll.avunit.tk" className={styles.card}>
-            <h2>Check out my troll site! &rarr;</h2>
+            <h2>Troll your friends! &rarr;</h2>
             <p>Plagiarism is fine, right?!</p>
           </a>
 
