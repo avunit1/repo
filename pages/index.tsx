@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <div className={styles.grid}>
           <a href="https://blog.avunit.tk" className={styles.card}>
             <h2>Read my blog! &rarr;</h2>
-            <p>Updated daily! (hopefully)</p>
+            <p>Hopefully updated regularly...</p>
           </a>
 
           <a href="https://troll.avunit.tk" className={styles.card}>
@@ -49,7 +49,7 @@ const Home: NextPage = () => {
       </main>
 
       <footer className={styles.footer}>
-          Built with love by Avunit. Licensed under GPL 3.
+          Built with ❤️ by Avunit. Licensed under GPL 3.
       </footer>
     </div>
   )
