@@ -30,7 +30,7 @@ const Home: NextPage = () => {
           </a>
           
           <a href="https://uptime.avunit.tk" className={styles.card}>
-            <h2>Uptime menu! &rarr;</h2>
+            <h2>Uptime! &rarr;</h2>
             <p>Still in beta ;)</p>
           </a>
 
