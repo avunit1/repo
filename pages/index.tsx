@@ -23,15 +23,15 @@ const Home: NextPage = () => {
             <h2>Read my blog! &rarr;</h2>
             <p>Hopefully updated regularly...</p>
           </a>
-
-          <a href="https://troll.avunit.tk" className={styles.card}>
-            <h2>Troll your friends! &rarr;</h2>
-            <p>Plagiarism is fine, right?!</p>
-          </a>
           
           <a href="https://uptime.avunit.tk" className={styles.card}>
             <h2>Uptime! &rarr;</h2>
             <p>Still in beta ;)</p>
+          </a>
+          
+          <a href="https://troll.avunit.tk" className={styles.card}>
+            <h2>Troll your friends! &rarr;</h2>
+            <p>Plagiarism is fine, right?!</p>
           </a>
 
           {/* <a
