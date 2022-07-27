@@ -28,6 +28,11 @@ const Home: NextPage = () => {
             <h2>Troll your friends! &rarr;</h2>
             <p>Plagiarism is fine, right?!</p>
           </a>
+          
+          <a href="https://uptime.avunit.tk" className={styles.card}>
+            <h2>Uptime menu! &rarr;</h2>
+            <p>Still in beta ;)</p>
+          </a>
 
           {/* <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
